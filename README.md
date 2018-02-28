@@ -6,6 +6,8 @@
 
 ### CSS 
 
+* (30 Seconds CSS)[https://atomiks.github.io/30-seconds-of-css/?utm_source=frontendfocus&utm_medium=email]
+
 #### Cheat Sheets
 * [devhints.io](https://devhints.io/css)
 * [HTML Cheat Sheet CSS](http://htmlcheatsheet.com/css/)
