@@ -8,13 +8,13 @@
 
 #### Cheat Sheets
 * [devhints.io](https://devhints.io/css)
-* [HTML Cheat Sheet](http://htmlcheatsheet.com/css/)
+* [HTML Cheat Sheet CSS](http://htmlcheatsheet.com/css/)
 
 ### JavaScript
 
 #### Cheat Sheets
 * [Cheatography](https://www.cheatography.com/davechild/cheat-sheets/javascript/)
-* [HTML Cheat Sheet](http://htmlcheatsheet.com/js/)
+* [HTML Cheat Sheet JS](http://htmlcheatsheet.com/js/)
 
 
 ### User Interface
