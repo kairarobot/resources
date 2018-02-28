@@ -14,6 +14,9 @@
 
 ### JavaScript
 
+*[What went Wrong?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_went_wrong)
+*[Handling common JavaScript problems](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/JavaScript)
+
 #### Cheat Sheets
 * [Cheatography](https://www.cheatography.com/davechild/cheat-sheets/javascript/)
 * [HTML Cheat Sheet JS](http://htmlcheatsheet.com/js/)
