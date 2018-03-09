@@ -9,6 +9,9 @@
 * [devhints.io](https://devhints.io/css)
 * [HTML Cheat Sheet CSS](http://htmlcheatsheet.com/css/)
 
+#### Architecture
+* [Philip Walton](https://philipwalton.com/articles/css-architecture/)
+
 ## JavaScript
 * [What went Wrong?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_went_wrong)
 * [Handling common JavaScript problems](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/JavaScript)
