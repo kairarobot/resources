@@ -23,3 +23,7 @@
 ## Git
 #### Cheat Sheets
 * [GitHub Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+
+## Design
+#### Cheat Sheets
+* [Designer List](https://www.designerslist.info/)
